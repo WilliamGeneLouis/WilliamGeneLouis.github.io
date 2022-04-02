@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://williamgenelouis.github.io/cn/Stack/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://williamgenelouis.github.io/tags/index.html</loc>
     
     <lastmod>2022-03-31</lastmod>
@@ -66,10 +73,31 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://williamgenelouis.github.io/tags/Coding/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgenelouis.github.io/tags/DS/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://williamgenelouis.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-04-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
     <lastmod>2022-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
