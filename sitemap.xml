@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/cn/text/</loc>
-    
-    <lastmod>2022-04-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://williamgenelouis.github.io/cn/Stack/</loc>
     
     <lastmod>2022-04-03</lastmod>
@@ -81,6 +74,13 @@
 
   
   <url>
+    <loc>https://williamgenelouis.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-04-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://williamgenelouis.github.io/tags/Coding/</loc>
     <lastmod>2022-04-03</lastmod>
     <changefreq>daily</changefreq>
@@ -94,24 +94,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://williamgenelouis.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-04-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
+    <loc>https://williamgenelouis.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2022-04-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
     <lastmod>2022-04-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
