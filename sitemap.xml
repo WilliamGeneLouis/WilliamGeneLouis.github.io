@@ -74,29 +74,29 @@
 
   <url>
     <loc>https://williamgenelouis.github.io/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://williamgenelouis.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://williamgenelouis.github.io/tags/Coding/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://williamgenelouis.github.io/tags/DS/</loc>
-    <lastmod>2022-04-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://williamgenelouis.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -104,29 +104,29 @@
 
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Markdown/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <loc>https://williamgenelouis.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <loc>https://williamgenelouis.github.io/categories/Markdown/</loc>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://williamgenelouis.github.io/categories/Queue/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-04-08</lastmod>
+    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
