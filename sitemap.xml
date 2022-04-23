@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://williamgenelouis.github.io/en/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://williamgenelouis.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -111,14 +111,14 @@
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
+    <loc>https://williamgenelouis.github.io/categories/Markdown/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://williamgenelouis.github.io/categories/Markdown/</loc>
+    <loc>https://williamgenelouis.github.io/categories/Stack/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
